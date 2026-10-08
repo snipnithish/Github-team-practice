@@ -1,0 +1,7 @@
+Student Data Analysis
+
+Tasks:
+1. Collect student data
+2. Clean the data
+3. Analyze performance
+4. Create visualizations
